@@ -1,3 +1,5 @@
+// This is the .h file which contains TreeNode class for creating tree objects or nodes 
+// This file is used in all tree programs
 #include<vector>
 using namespace std;
 
